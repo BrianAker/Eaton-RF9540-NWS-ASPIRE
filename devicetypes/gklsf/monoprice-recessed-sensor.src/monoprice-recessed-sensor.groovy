@@ -19,7 +19,7 @@
  *
  */
 metadata {
-	definition (name: "Monoprice Recessed Sensor", namespace: "gkl-sf", author: "gkl_sf") {
+	definition (name: "Monoprice Recessed Sensor", namespace: "gklsf", author: "gkl_sf") {
 		capability "Battery"
 		capability "Contact Sensor"
 		capability "Sensor"

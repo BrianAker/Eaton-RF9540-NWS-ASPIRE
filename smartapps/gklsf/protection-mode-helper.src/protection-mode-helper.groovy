@@ -20,7 +20,7 @@
  
 definition(
     name: "Protection Mode helper",
-    namespace: "gkl-sf",
+    namespace: "gklsf",
     author: "gkl_sf",
     description: "Use a switch to control Cooper Aspire RF9540 Protection Mode",
     category: "Convenience",

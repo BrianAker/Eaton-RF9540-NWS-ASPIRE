@@ -15,7 +15,7 @@
  */
 
 metadata {
-	definition (name: "Mode Switch", namespace: "gkl-sf", author: "gkl_sf") {
+	definition (name: "Mode Switch", namespace: "gklsf", author: "gkl_sf") {
 		capability "Actuator" //capability without built-in commands
 
         //these are needed for tile actions

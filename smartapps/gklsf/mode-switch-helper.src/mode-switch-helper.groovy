@@ -16,7 +16,7 @@
  
 definition(
     name: "Mode Switch Helper",
-    namespace: "gkl-sf",
+    namespace: "gklsf",
     author: "gkl_sf",
     description: "Mode switch helper",
     category: "Mode Magic",

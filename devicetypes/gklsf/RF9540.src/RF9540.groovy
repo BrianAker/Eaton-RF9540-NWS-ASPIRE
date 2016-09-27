@@ -73,7 +73,7 @@
  */
  
 metadata {
-	definition (name: "RF9540", namespace: "gkl-sf", author: "gkl_sf") {
+	definition (name: "RF9540", namespace: "gklsf", author: "gkl_sf") {
     
 		capability "Switch Level" //supports v2 so can accept setLevel(dimming level in %, duration in sec)
 		capability "Actuator"

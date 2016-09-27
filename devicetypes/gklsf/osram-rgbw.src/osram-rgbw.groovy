@@ -15,7 +15,7 @@
 **/
 
 metadata {
-    definition (name: "Osram RGBW", namespace: "gkl-sf", author: "gkl_sf") {
+    definition (name: "Osram RGBW", namespace: "gklsf", author: "gkl_sf") {
 
         capability "Actuator"
         capability "Color Control"
